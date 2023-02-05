@@ -1,0 +1,47 @@
+.inline-block{ 
+    display: inline-block;
+    vertical-align: top;
+}
+.logo{ 
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+nav{
+   width: 73%;
+   padding: 1%;  
+}
+ul{
+    width: 50%;
+    margin-left: auto;
+    color: white
+ }
+ .me{
+    height: 50%; 
+    padding: 25px;
+ }
+ .content{ 
+    width: 500px;
+    margin: 4 auto;
+    color:green; 
+ }
+ footer{
+    background-color:rgb(15, 80, 15); 
+ }
+ footer ul{ 
+    list-style: none;
+    padding-left: 5px;
+ }
+ footer li{
+    display: inline-block;
+    padding: 0px 7px;
+ }
+ header ul{
+    color: black; 
+    list-style: none; 
+    padding-left: 5x; 
+ }
+ header li{ 
+    display: inline-block; 
+    padding: 0px 7px; 
+ }
