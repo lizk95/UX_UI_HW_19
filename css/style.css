@@ -23,10 +23,10 @@ ul{
  .content{ 
     width: 500px;
     margin: 4 auto;
-    color:green; 
+    color:#0f500f; 
  }
  footer{
-    background-color:rgb(15, 80, 15); 
+    background-color:#0f500f; 
  }
  footer ul{ 
     list-style: none;
