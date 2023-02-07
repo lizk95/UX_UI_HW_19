@@ -1,7 +1,8 @@
-let button = document.querySelector;
-button.addEventListener('mouseover', function(){
-  button.style.background = "#34A853";
-});
-button.addEventListener('mouseout', function(){
-  button.style.background = "#0f500f";
-});
+var tag=document.getElementById("myButton");
+
+function mouseOver() {
+    tag.style.background="#34A853";
+};
+function mouseOut() {
+    tag.style.background="#0f500f";
+};
